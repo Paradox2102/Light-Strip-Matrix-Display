@@ -1,2 +1,1 @@
-# LightStripMatrixDisplay
-
+This program lets you display videos using a simulated LED Matrix. I'll probably get around to writing a better how to for this in the future but rn I'm tired.
